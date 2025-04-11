@@ -33,4 +33,4 @@ rayon = "1.8.0"
 rustc-hash = "1.1.0"
 rustfft = "6.1.0"
 tiktoken-rs = "0.5.3"
-tract-onnx = { git = "https://github.com/sonos/tract", rev = "84a4a4b" } # TBD update to 0.21.12
+tract-onnx = "0.21.12"
